@@ -1,0 +1,1 @@
+Bank{bid=87, bankname=bank1, phonenumber=123, website=qwwq, customers=null, employees=null}
